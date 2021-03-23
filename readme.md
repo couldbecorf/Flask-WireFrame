@@ -1,0 +1,1 @@
+Simple wireframe that I have used in a couple of flask applications. Makes the initial creation of a flask app quicker and simpler.
